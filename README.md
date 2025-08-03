@@ -21,7 +21,7 @@ FreeRTOS tasks, GPIO interrupts, and debouncing for reliable operation.
     -   If cloning, use:
 
         ``` bash
-        git clone 
+        git clone https://github.com/Rezgui-ahmed-aziz/esp32-button-led.git
         cd button_led
         ```
 
